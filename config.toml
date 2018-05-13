@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Markus Rademacher"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-119144858-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -233,15 +233,20 @@ enableGitInfo = false
 #    icon_pack = "fa"
 #    link = "//twitter.com/GeorgeCushen"
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=5G-rhGEAAAAJ&hl=de"
+ [[params.social]]
+   icon = "linked-in"
+   icon_pack = "fa"
+   link = "https://www.linkedin.com/in/markusrademacher"
+   
+ [[params.social]]
+   icon = "google-scholar"
+   icon_pack = "ai"
+   link = "https://scholar.google.co.uk/citations?user=5G-rhGEAAAAJ&hl=de"
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/markusrademacher"
+ [[params.social]]
+   icon = "github"
+   icon_pack = "fa"
+   link = "//github.com/markusrademacher"
 
 
 # Navigation Links
