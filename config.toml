@@ -234,7 +234,7 @@ enableGitInfo = false
 #    link = "//twitter.com/GeorgeCushen"
 
  [[params.social]]
-   icon = "linked-in"
+   icon = "linkedin"
    icon_pack = "fa"
    link = "https://www.linkedin.com/in/markusrademacher"
    
